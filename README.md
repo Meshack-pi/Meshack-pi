@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Meshack-pi
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning SQL and some CSS frameworks
-- 💞️ I’m looking to collaborate on webdev
+- 👋 Hi, I’m Meshack
+- 👀 I am a Laravel Web Developer
+- 🌱 I’m currently expanding my skills in PHP and database management
+- 💞️ I’m looking to collaborate with other devs
 - 📫 How to reach me contact kipronomeshack36@gmail.com
 
 <!---
