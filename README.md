@@ -34,11 +34,11 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=meshack-pi&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=meshack-pi&theme=dark&hide_border=true" alt="GitHub Streak" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meshack-pi&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
@@ -53,11 +53,4 @@
 
 ---
 
-### 📌 Fun Fact
-
-> I don't *just* solve problems—I debug them with **style**, break them with **curiosity**, and solve them with **consistency** (and a lot of coffee ☕😉).
-
----
-
-⭐️ _Thanks for visiting! Keep grinding, keep solving, and keep sipping that coffee!_
 
