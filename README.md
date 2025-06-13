@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm [Meshack]</h1>
+<h1 align="center">Hi there 👋, I'm Meshack</h1>
 <h3 align="center">CS Student | Problem Solver | Coffee Driven</h3>
 
 ---
@@ -13,9 +13,9 @@
 
 - 🎓 I’m a **CS student** with a deep passion for **Problem Solving** and **Mathematics**.
 - 🔎 I love diving deep into **Data Structures & Algorithms**, especially in **C++**.
-- 🧮 I believe math is the secret weapon of great programmers.
+- 🧮 I believe Math is the secret weapon of great programmers.
 - ⚡ I occasionally dive into the world of **Web Scraping** using **Python** to extract, automate, and explore.
-- 🏸 When not coding, you'll find me on the badminton court smashing birdies!
+- 🏸 When not coding, you'll find me on the Badminton court smashing birdies!
 - Maybe you might find me binge watching or jogging
 - ☕ **Consistency = Coffee + Code + Curiosity**
 
