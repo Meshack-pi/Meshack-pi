@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Meshack</h1>
-<h3 align="center">CS Student | Problem Solver | Coffee Driven</h3>
+<h3 align="center">CS Student | Problem Solver | Coffee </h3>
 
 ---
 
@@ -12,45 +12,10 @@
 ### 👨‍💻 About Me
 
 - 🎓 I’m a **CS student** with a deep passion for **Problem Solving** and **Mathematics**.
-- 🔎 I love diving deep into **Data Structures & Algorithms**, especially in **C++**.
+- 🔎 I love diving deep into **Data Structures & Algorithms**
 - 🧮 I believe Math is the secret weapon of great programmers.
-- ⚡ I occasionally dive into the world of **Web Scraping** using **Python** to extract, automate, and explore.
-- 🏸 When not coding, you'll find me on the Badminton court smashing birdies!
-- Maybe you might find me binge watching or jogging
-- ☕ **Consistency = Coffee + Code + Curiosity**
+- ⚡**Web Scraping** using **Python** to extract, automate, and explore.
+- 🏸 When not coding, you'll find me on the Badminton court
 
 ---
-
-### 🛠️ Tech Stack
-
-- 💻 Languages: `C++`, `Python`, `HTML`, `CSS`, `JavaScript`
-- 📦 Tools: `Git`, `GitHub`, `VS Code`, `Linux`, `Postman`
-- 🌐 Web Scraping: `BeautifulSoup`, `Selenium`, `Requests`
-- 💾 Databases: `MySQL`, `SQLite`
-- 📊 Learning: `Laravel`, `Livewire`, `Filament`, `DSA Patterns`
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=meshack-pi&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=meshack-pi&theme=dark&hide_border=true" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meshack-pi&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
-### 🔗 Let's Connect!
-
-<p align="left">
-  <a href="https://github.com/meshack-pi" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=flat&logo=github&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/meshack-rono" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:kipronomeshack36@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-</p>
-
----
-
 
