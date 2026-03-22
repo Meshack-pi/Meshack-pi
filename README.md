@@ -63,16 +63,6 @@
 
 ---
 
-### Coding Time
-
-<div align="center">
-
-[![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=meshackpi&theme=cobalt&hide_border=true)](https://wakatime.com/@meshackpi)
-
-</div>
-
----
-
 <div align="center">
 
 <sub>Made with <a href="https://lebedevnet.github.io/ReadmeForge">ReadmeForge</a> &nbsp;·&nbsp; <a href="https://github.com/meshack-pi">github.com/meshack-pi</a></sub>
