@@ -67,7 +67,7 @@
 
 <div align="center">
 
-[![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=meshack-pi&theme=cobalt&hide_border=true)](https://wakatime.com/@meshackpi)
+[![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=meshackpi&theme=cobalt&hide_border=true)](https://wakatime.com/@meshackpi)
 
 </div>
 
