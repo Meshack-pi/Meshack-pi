@@ -79,8 +79,6 @@ Passionate Computer Science student with experience in Python, Laravel, ML and b
 
 <div align="center">
 
-<sub>Made with <a href="https://lebedevnet.github.io/ReadmeForge">ReadmeForge</a> &nbsp;·&nbsp; <a href="https://github.com/meshack-pi">github.com/meshack-pi</a></sub>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00e87a&height=120&section=footer" width="100%"/>
 
 </div>
