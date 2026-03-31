@@ -24,7 +24,7 @@ Passionate Computer Science student with experience in Python, Laravel, ML and b
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=python,ts,java,php&theme=dark" alt="Languages"/>
+<img src="https://skillicons.dev/icons?i=python,ts,java,c++,php&theme=dark" alt="Languages"/>
 
 **Frontend**
 
