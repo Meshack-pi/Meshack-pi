@@ -12,7 +12,7 @@
 
 ### About
 
-Passionate Computer Science student with experience in Python, Laravel, ML and building ERP systems
+Software Engineer swith experience in Python, Java, ML and building ERP systems
 
 ⌖ **Location** &nbsp; Nairobi, Kenya <br/>
 ◎ **Education** &nbsp; Strathmore University <br/>
